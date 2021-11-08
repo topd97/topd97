@@ -1,5 +1,15 @@
-### Hi there 👋
+![quais-sao-os-profissionais-envolvidos-no-desenvolvimento-de-aplicativos-5-1200x400](https://user-images.githubusercontent.com/30189037/140823635-2e271d35-1f00-4248-a59e-d62a236b85ec.png)
 
+### Ola eu sou o Thiago 👋
+
+- 🔭 Sou Desenvolvedor Mobile mais focado em iOS (Mas também conheço Android)
+- 🌱 Terminando a faculdade de Ciencia da computação na URFJ - Universidade Federal do Rio de Janeiro
+
+<div align="center">
+   <a href="https://github.com/topd97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=topd97&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topd97&layout=compact&langs_count=7&theme=blue-green&count_private=true&hide=SQLPL"/>
+</div>
 <!--
 **topd97/topd97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
