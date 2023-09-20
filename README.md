@@ -1,9 +1,9 @@
 ![quais-sao-os-profissionais-envolvidos-no-desenvolvimento-de-aplicativos-5-1200x400](https://user-images.githubusercontent.com/30189037/140823635-2e271d35-1f00-4248-a59e-d62a236b85ec.png)
 
-### Ola eu sou o Thiago 👋
+### Hi, my name is Thiago 👋
 
-- 🔭 Sou Desenvolvedor Mobile mais focado em iOS (Mas também conheço Android)
-- 🌱 Terminando a faculdade de Ciencia da computação na URFJ - Universidade Federal do Rio de Janeiro
+- 🔭 I'm an iOs developer with some knolodge of android, python, C/C++ and Java
+- 🌱 I had gradated with a bachelor degree in Computer sciene in URFJ - Universidade Federal do Rio de Janeiro
 
 <!--div align="center">
    <a href="https://github.com/topd97">
